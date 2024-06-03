@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586308391675",
+    "project_id": "otw1-63cab",
+    "storage_bucket": "otw1-63cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586308391675:android:ea7655df8f75c17ab7165e",
+        "android_client_info": {
+          "package_name": "com.example.otw1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDFx1cDoninQ2LrAJTeeF56_RyJ1joDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
